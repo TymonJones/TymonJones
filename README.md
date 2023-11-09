@@ -14,7 +14,7 @@ I'm a Full Stack Software Engineer with a knack for building web applications th
 - 👯 I'm looking to collaborate on open source projects and innovative tech ideas.
 - 🤔 I'm looking for help with advanced React patterns.
 - 💬 Ask me about JavaScript, Python, React, Flask, or anything tech-related.
-- 📫 How to reach me:Tymonjjones@gmail.com
+- 📫 How to reach me: Tymonjjones@gmail.com
 - 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I'm a big fan of modular design patterns.
 
