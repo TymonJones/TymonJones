@@ -21,9 +21,6 @@ I'm a Full Stack Software Engineer with a knack for building web applications th
 
 Feel free to reach out for collaborations or just a chat about all things tech!
 
-## GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 <!-- Replace 'yourusername' with your GitHub username -->
 
