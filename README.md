@@ -1,18 +1,37 @@
-### Hi there 👋
+# Hello, I'm Tymon! 👋
 
-<!--
-**TymonJones/TymonJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://python.org)
+[![React](https://img.shields.io/badge/React-17+-61DAFB.svg?&logo=React)](https://reactjs.org)
+[![Flask](https://img.shields.io/badge/Flask-2.0+-000000.svg?&logo=Flask)](https://flask.palletsprojects.com/)
 
-Here are some ideas to get you started:
+I'm a Full Stack Software Engineer with a knack for building web applications that provide intuitive user experiences and scalable backend services. With a background in a fast-paced coding bootcamp, I've honed my skills in JavaScript, Python, React, and Flask, and I'm always on the lookout for new technologies and frameworks to master.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Languages and Framworks 
-<img src="{https://camo.githubusercontent.com/dbee61c2c12189e4c8367bc24f9ab5a2fd0ccb730525950479bb4b27ee35cbe2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c61737469635f5365617263682d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d656c6173746963736561726368266c6f676f436f6c6f723d7768697465}" />
+## About Me
+
+- 🔭 I'm currently working on full-stack web applications.
+- 🌱 I’m currently learning more about cloud architectures and microservices.
+- 👯 I'm looking to collaborate on open source projects and innovative tech ideas.
+- 🤔 I'm looking for help with advanced React patterns.
+- 💬 Ask me about JavaScript, Python, React, Flask, or anything tech-related.
+- 📫 How to reach me:Tymonjjones@gmail.com
+- 😄 Pronouns: [He/Him]
+- ⚡ Fun fact: I'm a big fan of modular design patterns.
+
+
+Feel free to reach out for collaborations or just a chat about all things tech!
+
+## GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+<!-- Replace 'yourusername' with your GitHub username -->
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/yourusername/your-repo/pull/1) in [your-repo](https://github.com/yourusername/your-repo)
+2. 🎉 Merged PR [#2](https://github.com/yourusername/your-repo/pull/2) in [your-repo](https://github.com/yourusername/your-repo)
+3. ❗️ Closed issue [#3](https://github.com/yourusername/your-repo/issues/3) in [your-repo](https://github.com/yourusername/your-repo)
+<!--END_SECTION:activity-->
+
